@@ -1,0 +1,2 @@
+*.py linguist-language=Python
+*.task filter=lfs diff=lfs merge=lfs -text

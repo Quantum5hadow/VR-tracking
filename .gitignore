@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+hand_landmarker.task
+drawing.png
+.venv/
+MY_NOTES.txt
+DEV_LOG.txt
